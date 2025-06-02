@@ -85,9 +85,6 @@ Forecast for the next few days
 🤝 Contributing
 Contributions are welcome! If you find a bug or have an idea for an improvement, feel free to open an issue or submit a pull request.
 
-📄 License
-This project is open source and available under the MIT License.
-
 🙋‍♂️ Author
 Developed by Toufeeq Toffar
 🔗 Portfolio:https://toufeeq-toffar-portfolio.vercel.app/ 
