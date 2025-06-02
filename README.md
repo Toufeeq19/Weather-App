@@ -29,7 +29,7 @@ OpenWeather API – Weather data provider
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/weather-app.git
+git clone [https://github.com/yourusername/weather-app.git](https://github.com/Toufeeq19/Weather-App)
 cd weather-app
 2. Get an API key
 Go to https://openweathermap.org/api
