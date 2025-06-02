@@ -9,9 +9,7 @@ A simple and weather application built with HTML, CSS, and JavaScript that allow
 🧰 Features
 🔍 Search weather by city name
 
-🌡️ Displays temperature, humidity, wind speed, and weather condition
-
-🕓 Shows current date and time
+🌡️ Displays temperature and weather condition
 
 🎨 Clean and responsive UI
 
