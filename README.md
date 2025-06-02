@@ -3,7 +3,8 @@
 A simple and weather application built with HTML, CSS, and JavaScript that allows users to check real-time weather information for any city in the world using the OpenWeather.org API.
 
 📸 Screenshot
-(assets/Weather_app.png)
+![Weather App Screenshot](Weather_app.png)
+
 
 🧰 Features
 🔍 Search weather by city name
